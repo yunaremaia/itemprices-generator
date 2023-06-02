@@ -1,6 +1,6 @@
 # Tibia Item Prices
 
-This repository contains a Python program that generates a JSON configuration file to set item prices for the Tibia game. This configuration file is useful for facilitating loot during hunts by providing custom values for items.
+This repository contains a Python program that generates a JSON configuration file to set item prices for the Tibia game. This configuration file is useful for facilitating loot during hunts by providing "Market Average Value" for items.
 
 ## How to Use
 
@@ -10,7 +10,7 @@ This repository contains a Python program that generates a JSON configuration fi
 4. Run the program using the command `python item_price_generator.py`.
 5. Enter the start and end values of the range to generate item prices.
 6. Choose the location where you want to save the resulting JSON file.
-7. The configuration file will be generated with the item prices in the specified range.
+7. The configuration file will be generated with the "Market Average Value" in the specified item ids range.
 
 ## Requirements
 
